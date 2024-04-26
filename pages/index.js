@@ -16,7 +16,7 @@ const Frame = () => {
     <div className="w-full h-full relative bg-white overflow-hidden flex flex-col items-end justify-start pt-[21.6px] px-[39.7px] pb-[57.2px] box-border gap-[78px] leading-[normal] tracking-[normal] text-center text-base text-white font-noto-sans-carian mq750:gap-[39px] mq1050:h-auto mq450:gap-[19px]">
       <div className="mt-[-126px] w-[127.1px] flex flex-row items-start justify-end py-0 px-2 box-border">
         <div className="flex-1 rounded-4xs bg-gray-500 flex flex-row items-start justify-start pt-[15.5px] pb-[16.5px] pr-[10.1px] pl-4 whitespace-nowrap">
-          <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/dashboard'><div className="flex-1 relative leading-[16px]">Get started</div></Link>
+          <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/input'><div className="flex-1 relative leading-[16px]">Get started</div></Link>
         </div>
       </div>
       <FrameComponent7 />

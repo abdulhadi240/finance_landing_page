@@ -30,7 +30,7 @@ const FrameComponent7 = () => {
           </div>
           <div className="flex flex-row items-start justify-start gap-[15.2px] max-w-full text-center text-gray-400 mq750:hidden">
             <button className="cursor-pointer [border:none]  p-3 bg-gray-400 rounded-lg flex  text-center  whitespace-nowrap hover:bg-darkslategray-100">
-              <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/dashboard'><div className="relative text-base leading-[21px] font-noto-sans-carian text-white text-center inline-block min-w-[85px]">
+              <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/input'><div className="relative text-base leading-[21px] font-noto-sans-carian text-white text-center inline-block min-w-[85px]">
                 Get started
               </div></Link>
             </button>
@@ -77,7 +77,7 @@ const FrameComponent7 = () => {
             <div className="flex flex-row items-start self-stretch justify-center px-5 py-0">
               <div className="w-[298.7px] flex flex-row items-start justify-start gap-[16px]">
                 <button className="cursor-pointer [border:none] pt-[15.5px] pb-[16.5px] pr-[10.1px] pl-4 bg-gray-500 rounded-4xs flex flex-row items-start justify-start whitespace-nowrap hover:bg-darkslategray-200">
-                <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/dashboard'><div className="relative text-base leading-[21px] font-noto-sans-carian text-white text-center inline-block min-w-[85px]">
+                <Link href='https://ml-client-git-demi-abdulhadi240s-projects.vercel.app/input'><div className="relative text-base leading-[21px] font-noto-sans-carian text-white text-center inline-block min-w-[85px]">
                     Get started
                   </div>
                   </Link>
